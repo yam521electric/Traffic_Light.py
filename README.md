@@ -26,7 +26,6 @@ Everybodys_got_a_little_light_under_the_sun()
 
 # ============================================================================
 # Source: My Brain (there's a previous light and song code I took reference from)
-# GitHub: https://raw.githubusercontent.com/jimTheSTEAMClown/RaspberryPi/master/RPi_NeoPixel_Strip.py
 # Hacker: Noah A. Murillo (he's pretty cool I heard)
 # Program/Design Name: Traffic_Light.py
 # Description:    This is a program to drive a set of LED's in a traffic light manner (it's pretty simple)
